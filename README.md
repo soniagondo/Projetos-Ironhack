@@ -1,6 +1,6 @@
 # Ironhack projects
 
-Data analytics couse
+Data analytics course
 
 Project 1 - Game in Python: build a game from scratch.
 
